@@ -33,10 +33,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/AgOEcMJ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshot from 2026-02-24 18-10-14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  The first step is to start a virtual machine on Azure. We will be using the Windows 11 25H2 image. 
+  The first step is to create an account on Azure, which will be simple because connecting to your Microsoft account requires you to enter a debit or credit card, after which you will see a computer monitor displaying a cube. You will click this link, which will take you to the location of the screenshot. The second step is to start a virtual machine on Azure. We will be using the Windows 11 25H2 image. To use the virtual machine, enter your username and password, and make sure to check the box at the bottom; otherwise, the VM will not start.
 </p>
 <br />
 
