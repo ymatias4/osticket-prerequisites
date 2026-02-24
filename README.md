@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshot from 2026-02-24 18-09-04.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   The first step is to start a virtual machine on Azure. We will be using the Windows 11 25H2 image. 
