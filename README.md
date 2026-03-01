@@ -45,10 +45,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   The next step is to get the VM working after Azure creates it. The most important part of the configuration will be the public IP address. 
   </p>
 <br />
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="remmina step 3 .png"="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you have obtained the public address, you will be ready to use remote desktop clients; in this instance, I will be using Remmina. You will open Remmina. The interface is going to have a plus sign on the top left. You click this button, and the interface shown in the screenshot will appear. The public IP address, you can write it on the server, and the username and password are the ones you created. For the purpose of this exercise, you have the option to either connect or connect and save your settings.
 </p>
 <br />
 
