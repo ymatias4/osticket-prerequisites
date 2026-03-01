@@ -39,8 +39,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   The first step is to create an account on Azure, which will be simple because connecting to your Microsoft account requires you to enter a debit or credit card, after which you will see a computer monitor displaying a cube. You will click this link, which will take you to the location of the screenshot. The second step is to start a virtual machine on Azure. We will be using the Windows 11 25H2 image. To use the virtual machine, enter your username and password, and make sure to check the box at the bottom; otherwise, the VM will not start.
 </p>
 <br />
-
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
+  The next step is to get the VM working after Azure creates it. The most important part of the configuration will be the public IP address. 
+  </p>
+<br />
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
